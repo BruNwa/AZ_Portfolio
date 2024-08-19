@@ -29,7 +29,7 @@ class ProjectsGrid extends StatelessWidget {
       coverType: CoverType.gif,
       language: 'Flutter',
       languageLogoUrl: 'assets/images/icons/flutter.png',
-      projectUrl: 'https://project2.com',
+      projectUrl: 'https://github.com/BruNwa/AZ_Portfolio',
       gridWidth: 1.5,
       gridHeight: 1.0,
     ),
