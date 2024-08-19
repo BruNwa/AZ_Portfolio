@@ -24,7 +24,7 @@ class ProjectsGrid extends StatelessWidget {
     ),
     Project(
       title: 'Web Portfolio',
-      description: 'Responsive web dashboard using React.',
+      description: 'This project is a comprehensive portfolio application developed using Flutter. It showcases a range of professional experiences, projects, and contact information in a visually appealing and interactive format. The application is designed to provide a seamless user experience across various devices, utilizing responsive design principles and modern UI components.',
       coverUrl: 'assets/projects/portfolio.gif',
       coverType: CoverType.gif,
       language: 'Flutter',
