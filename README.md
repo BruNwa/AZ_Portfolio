@@ -45,7 +45,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/portfolio-project.git
+    git clone https://github.com/BruNwa/AZ_Portfolio
     ```
 
 2. **Navigate to the Project Directory**:
