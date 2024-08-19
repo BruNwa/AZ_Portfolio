@@ -29,7 +29,7 @@ class Socialiconbutton_1 extends StatelessWidget {
           width: 250,
           child: MaterialButton(
             onPressed: () {
-              _launchURL('https://your-cv-link.com');
+              _launchURL('https://drive.google.com/file/d/18PS7WDa3AMZ76bdNfl-I2QhY9mPVePIT/view');
             },
             child: const Row(
               mainAxisAlignment: MainAxisAlignment.center,
@@ -155,7 +155,7 @@ class Socialiconbutton_2 extends StatelessWidget {
           width: 250,
           child: MaterialButton(
             onPressed: () {
-              _launchURL('https://your-cv-link.com');
+              _launchURL('https://drive.google.com/file/d/18PS7WDa3AMZ76bdNfl-I2QhY9mPVePIT/view');
             },
             child: const Row(
               mainAxisAlignment: MainAxisAlignment.center,
