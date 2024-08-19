@@ -27,6 +27,7 @@ The portfolio features the following widgets and functionalities:
 This project leverages several Flutter packages to enhance its functionality and appearance:
 
 - [`flutter`](https://flutter.dev): The core package for building the Flutter application.
+- [`rive`](https://pub.dev/packages/rive): Offers advanced animations and interactive graphics for an engaging user experience.
 - [`font_awesome_flutter`](https://pub.dev/packages/font_awesome_flutter): Provides access to FontAwesome icons for social media and other purposes.
 - [`url_launcher`](https://pub.dev/packages/url_launcher): Allows launching URLs in an external application (e.g., web browser).
 
